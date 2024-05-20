@@ -1,0 +1,155 @@
+
+.p {
+  font-size: 4vw;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Cookie", cursive;
+  position: relative;
+  letter-spacing: 0.06vw;
+}
+
+.op {
+  margin-left: -1vw;
+  width: 99.71vw;
+  margin-top: 1vw;
+}
+
+.leh {
+  position: relative;
+  top: -66.45vw;
+  left: 40.5vw;
+  width: 17vw;
+  height: 17vw;
+}
+
+.mems {
+  font-family: "Cookie", cursive;
+  text-align: center;
+  font-size: 5vw;
+  letter-spacing: 0.06vw;
+  margin-top: -13vw;
+}
+
+.podt {
+  font-size: 3vw;
+  position: relative;
+  top: -65.3vw;
+  color: white;
+  font-family: "Cookie", cursive;
+}
+
+.mem1 {
+  width: 25vw;
+  height: 25vw;
+  margin-top: 6vw;
+}
+
+.mem2 {
+  width: 25vw;
+  height: 25vw;
+  margin-left: 3vw;
+}
+
+.mem3 {
+  width: 40vw;
+  height: 25vw;
+  margin-left: 3.5vw;
+}
+
+.yarik {
+  position: relative;
+  top: -83vw;
+  width: 20vw;
+  height: 20vw;
+  left: 39vw;
+}
+
+.otvet-yarik {
+  font-size: 4vw;
+  font-family: "Cookie", cursive;
+  color: white;
+  position: relative;
+  top: -42.5vw;
+}
+
+.vse-mem {
+  margin-top: -30vw;
+}
+
+.dochka {
+  color: red;
+}
+
+.sixt {
+  color: greenyellow;
+  margin-left: 0.5vw;
+  position: relative;
+  top: -1vw;
+}
+
+.memes-yr-geogr {
+  text-align: center;
+}
+
+.kolem {
+  position: relative;
+  width: 31vw;
+  height: 25vw;
+  top: -125vw;
+  left: -0.4vw;
+}
+
+.stas {
+  width: 7vw;
+  height: 7vw;
+  top: -137vw;
+  left: -18vw;
+  position: relative;
+}
+
+.text-stas {
+  font-family: "Cookie", cursive;
+  color: orange;
+  font-size: 3.5vw;
+  position: relative;
+  top: -124vw;
+}
+
+.onef {
+  color: red;
+}
+
+.prtext {
+  top: -0.8vw;
+  position: relative;
+}
+
+.text-vid {
+  font-size: 5vw;
+  position: relative;
+  top: -45vw;
+  text-align: center;
+  font-family: "Cookie", cursive;
+  color: brown;
+}
+
+.stas-ugar {
+  margin-left: 39vw;
+  position: relative;
+  top: -40vw;
+}
+
+
+
+@media (max-width:480px) {
+
+  .p {
+    
+  }
+
+
+
+
+
+
+}
